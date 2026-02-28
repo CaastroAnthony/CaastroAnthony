@@ -29,11 +29,9 @@ Lógica de Programação
 
 ## 📊 Estatísticas do GitHub
 
-<!-- Gere seus cards em: https://github.com/anuraghazra/github-readme-stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaastroAnthony&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaastroAnthony&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaastroAnthony&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaastroAnthony&layout=compact&theme=tokyonight)
 
 ---
 
